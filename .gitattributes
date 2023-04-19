@@ -17,5 +17,4 @@
 Podfile linguist-detectable=false
 CMakeLists.txt linguist-detectable=false
 
-static/admin/css/** linguist-detectable=false
-static/admin/js/** linguist-detectable=false
+static/admin/** linguist-detectable=false
